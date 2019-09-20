@@ -1,2 +1,4 @@
 # simple_web_server
-Demo of NODE.JS (IOT DEVICES)
+
+
+Demo of Node.js (IOT DEVICES) with simple webserver.
